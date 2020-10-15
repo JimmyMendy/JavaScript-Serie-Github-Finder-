@@ -1,0 +1,2 @@
+Hi! I'm Jimmy Mendy an aspiring full stack web developer. I'm curently learn the Front-End languages and here is a web app 'GitHub finder' where I mostly focus on JavaScript.
+The front-end design is basic and made with Material UI.
